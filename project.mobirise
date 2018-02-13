@@ -55,7 +55,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#fac51c"
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:T333B333@YAHOO.COM\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.cektarif.com/\">Cek Ongkir</a></li>",
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.cektarif.com/\">Cek Ongkir</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -102,7 +102,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BUKU ADALAH JENDELA DUNIA",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "text": "<br>Pernah dengar kalimat itu? Tentu sangat akrab di telinga. Kenapa sih sampai ada istilah tersebut?\n<br>\n<br>Dikutip dari theprospect.net, membaca dapat meningkatkan kualitas hidup manusia serta menjauhkan dari jurang kebodohan. Membiasakan diri membaca buku, koran maupun media lainnya, membuat kita berlatih memusatkan pikiran dan merangsang saraf otak untuk bekerja.\n<br>\n<br>Membaca buku akan menambah pengetahuan kamu tentang apa yang ada di dunia ini. Misalnya, kamu membaca buku tentang negara mesir dan sejarahnya. Tentu saja akan menambah ilmu pengetahuan kamu tentang negara yang memiliki Piramida tersebut.\n<br>\n<br>Ketika ingin mengetahui apa yang ada di dasar laut, kamu juga tidak harus menyelam ke dasar laut untuk dapat mengetahui apa yang ada di dalamnya. Kamu cukup membaca tentang kelautan, dan pastilah kamu akan mengetahui apa yang ada di dalam lautan tersebut. Dan apabila kamu juga ingin mengetahui isi perut bumi, kamu cukup membaca buku tentang perut bumi.\n<br>\n<br>Dengan membaca buku, kamu akan mendapat banyak informasi tanpa harus menanggung resiko untuk mendapatkan informasi tersebut. Bayangkan saja jika kamu harus masuk ke dalam kawah gunung berapi ketika ingin mendapatkan informasi tentang aktifitas gunung berapi. Pasti hal tersebut akan mendatangkan resiko yang sangat besar untuk keselamatan kamu.\n<br>\n<br>Nah itulah keistimewaan membaca buku, mari kita membaca buku agar kita mengetahui banyak hal di muka bumi ini. (rkh/rkh)&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
